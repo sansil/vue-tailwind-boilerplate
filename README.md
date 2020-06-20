@@ -1,4 +1,4 @@
-# cvbuilder
+# vue-tailwind-boilerplate
 
 ## Project setup
 ```
